@@ -1,5 +1,5 @@
 # Gesture Controlled Blimp
-This is a project I did during my 1st year of engineering. It is a small blimp, which can be controlled by the hand gestures of a pilot.
+A couple of balloons were filled with Helium to mimic a blimp, and a gyroscope based hand gesture recognition was used to navigate the system. This project was carried out as a part of Engineering Exploration course in 1st year of my engineering
 
 ![Image of the Blimp](https://github.com/slomogangsta/Gesture-Controlled-Blimp/blob/master/images/IMG_20180427_140020.jpg)
 _Image of the Blimp_
