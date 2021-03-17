@@ -7,6 +7,6 @@ _Image of the Blimp_
 ![Image of the Controller](https://github.com/slomogangsta/Gesture-Controlled-Blimp/blob/master/images/IMG_20180428_153650.jpg)
 _Image of the Controller_
 
-![Video of the Blimp Flying](https://photos.app.goo.gl/BtJgUrHrpPeFrATq6)
+Video of the Blimp Flying: https://photos.app.goo.gl/BtJgUrHrpPeFrATq6
 
-For further information refer my ![Project Report](https://docs.google.com/document/d/1fbpyNIbMTS7BVcwTbdmjhKk9ES07SUYZhYzy9iioVvo/edit?usp=sharing)
+For further information refer my project report: https://docs.google.com/document/d/1fbpyNIbMTS7BVcwTbdmjhKk9ES07SUYZhYzy9iioVvo/edit?usp=sharing
